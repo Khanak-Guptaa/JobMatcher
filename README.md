@@ -1,6 +1,20 @@
-# JobMatcher
+Team Details
+Team Name: TEAM_NAME_HERE
+
+Team Leader: @USERNAME
+
+Team Members:
+
+anshul - ROLL_NUMBER - @USERNAME
+khanak- ROLL_NUMBER - @USERNAME
+ashpreet - ROLL_NUMBER - @USERNAME
+lakshay - ROLL_NUMBER - @USERNAME
+himanshu  - ROLL_NUMBER - @USERNAME
+nilesh - ROLL_NUMBER - @USERNAME# JobMatcher
 
 Job matcher is our official submission for Smart India Hackathon (SIH'25). 
+
+ppt link - https://drive.google.com/file/d/104FNhNyfRx-lAdXIAEADLGbOJ_2cg8Q8/view?usp=sharing
 
 ### Steps to reproduce
 
