@@ -1,43 +1,34 @@
-Team Details
-Team Name: INNOVERSE 
+# JobMatcher
 
-Team Leader: anshul-yadav-1910
+JobMatcher is a team project developed during **Smart India Hackathon (SIH)** with the goal of matching candidates to relevant jobs or internships using data-driven and machine learning–based techniques.
 
-Team Members:
+## Problem Statement
+Finding relevant job and internship opportunities can be time-consuming and inefficient due to skill mismatches and unstructured data. JobMatcher aims to improve this process by using similarity-based matching between candidate profiles and job requirements.
 
-anshul - 2024UIT3024 
-khanak- 2024UIT3011 
-ashpreet - 2024UIT3038 
-lakshay - 2024UEV6615
-himanshu  - 2024UIC3646	
-nilesh - 2024UEE4144 # JobMatcher
+## Approach
+- Preprocessed candidate and job data for consistency
+- Generated vector representations (embeddings) of skills and job descriptions
+- Applied similarity-based ranking to match candidates with suitable roles
+- Evaluated results using sample datasets
 
-Job matcher is our official submission for Smart India Hackathon (SIH'25). 
+## Tech Stack
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+- Machine Learning Embeddings
+- Git & GitHub
 
-ppt link - https://drive.google.com/file/d/104FNhNyfRx-lAdXIAEADLGbOJ_2cg8Q8/view?usp=sharing
-website link - https://internship-matchmaker-ai.lovable.app/
+## My Contribution
+- Worked on data preprocessing and preparation for model input
+- Assisted in implementing similarity-based matching logic
+- Collaborated with team members on experimentation and evaluation
+- Used GitHub for version control and team collaboration
 
+## Repository Structure
+- `notebooks/` – Jupyter notebooks for experimentation and model logic
+- `data/` – Datasets used for testing and evaluation
+- `embeddings/` – Generated vector representations
 
-### Steps to reproduce
-
-1. Clone the repository: 
-
-```bash
-git clone https://github.com/Khanak-Guptaa/JobMatcher
-```
-
-2. Ensure miniconda/Anaconda is installed, create the environment and activate it: 
-
-```bash
-conda env create -f environment.yml
-conda activate test
-```
-3. Ensure [the dataset](./intershala_internship.csv) is present in the directory. 
-
-4. Move to the `hackathon_ml.ipynb` notebook and run it cell-by-cell. 
-
-5. Saved embeddings can be found as `user_embeddings.npy` and `internship_embeddings.npy`.
-
-
-
+## Note
+This repository represents a hackathon prototype and focuses on demonstrating the core idea and workflow rather than production deployment.
 
