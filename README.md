@@ -18,17 +18,11 @@ Finding relevant job and internship opportunities can be time-consuming and inef
 - Machine Learning Embeddings
 - Git & GitHub
 
-## My Contribution
-- Worked on data preprocessing and preparation for model input
-- Assisted in implementing similarity-based matching logic
-- Collaborated with team members on experimentation and evaluation
-- Used GitHub for version control and team collaboration
-
 ## Repository Structure
 - `notebooks/` – Jupyter notebooks for experimentation and model logic
 - `data/` – Datasets used for testing and evaluation
 - `embeddings/` – Generated vector representations
 
 ## Note
-This repository represents a hackathon prototype and focuses on demonstrating the core idea and workflow rather than production deployment.
+This repository represents a hackathon prototype and focuses on demonstrating the core idea and workflow.
 
